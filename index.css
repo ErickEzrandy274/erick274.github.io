@@ -5,6 +5,7 @@ body {
     background-image: url("./fotoss/4703133.jpg");
     background-repeat: no-repeat;
     background-size: cover;
+    background-attachment: fixed;
     width: 100%;
     height: 150%; 
 }
